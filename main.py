@@ -29,8 +29,6 @@ class TaskManager:
                 return
         print(f"Task '{description}' not found.")
 
-##
-
 
 
     def show_pending_tasks(self):
